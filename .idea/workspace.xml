@@ -4,7 +4,329 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e26f0f79-396b-4703-b317-731922fa37da" name="Default Changelist" comment="" />
+    <list default="true" id="e26f0f79-396b-4703-b317-731922fa37da" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 - level graphics.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/amit_code/UI.py" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/amit_code/UI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/amit_code/Upgrade_screen.py" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/amit_code/Upgrade_screen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/amit_code/debug.py" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/amit_code/debug.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/amit_code/enemy.py" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/amit_code/enemy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/amit_code/entity.py" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/amit_code/entity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/amit_code/level.py" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/amit_code/level.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/amit_code/magic.py" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/amit_code/magic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/amit_code/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/amit_code/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/amit_code/particles.py" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/amit_code/particles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/amit_code/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/amit_code/player.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/amit_code/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/amit_code/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/amit_code/support.py" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/amit_code/support.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/amit_code/tile.py" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/amit_code/tile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/amit_code/weapon.py" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/amit_code/weapon.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/audio/Fire.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/audio/attack/claw.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/audio/attack/fireball.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/audio/attack/slash.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/audio/death.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/audio/heal.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/audio/hit.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/audio/main.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/audio/sword.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/code/debug.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/code/level.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/code/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/code/player.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/code/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/code/support.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/code/tile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/font/joystix.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/font/joystix.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/grass/grass_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/grass/grass_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/grass/grass_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/grass/grass_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/grass/grass_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/grass/grass_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/bamboo/attack/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/bamboo/attack/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/bamboo/idle/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/bamboo/idle/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/bamboo/idle/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/bamboo/idle/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/bamboo/idle/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/bamboo/idle/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/bamboo/idle/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/bamboo/idle/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/bamboo/move/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/bamboo/move/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/bamboo/move/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/bamboo/move/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/bamboo/move/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/bamboo/move/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/bamboo/move/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/bamboo/move/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/raccoon/attack/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/raccoon/attack/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/raccoon/attack/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/raccoon/attack/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/raccoon/attack/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/raccoon/attack/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/raccoon/attack/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/raccoon/attack/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/raccoon/idle/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/raccoon/idle/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/raccoon/idle/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/raccoon/idle/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/raccoon/idle/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/raccoon/idle/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/raccoon/idle/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/raccoon/idle/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/raccoon/idle/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/raccoon/idle/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/raccoon/idle/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/raccoon/idle/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/raccoon/move/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/raccoon/move/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/raccoon/move/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/raccoon/move/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/raccoon/move/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/raccoon/move/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/raccoon/move/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/raccoon/move/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/raccoon/move/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/raccoon/move/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/spirit/attack/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/spirit/attack/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/spirit/idle/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/spirit/idle/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/spirit/idle/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/spirit/idle/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/spirit/idle/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/spirit/idle/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/spirit/idle/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/spirit/idle/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/spirit/move/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/spirit/move/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/spirit/move/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/spirit/move/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/spirit/move/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/spirit/move/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/spirit/move/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/spirit/move/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/squid/attack/0 - Copy (2).png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/squid/attack/0 - Copy (2).png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/squid/attack/0 - Copy (3).png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/squid/attack/0 - Copy (3).png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/squid/attack/0 - Copy.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/squid/attack/0 - Copy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/squid/attack/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/squid/attack/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/squid/idle/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/squid/idle/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/squid/idle/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/squid/idle/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/squid/idle/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/squid/idle/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/squid/idle/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/squid/idle/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/squid/idle/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/squid/idle/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/squid/move/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/squid/move/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/squid/move/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/squid/move/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/squid/move/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/squid/move/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/monsters/squid/move/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/monsters/squid/move/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/objects/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/objects/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/objects/01.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/objects/01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/objects/02.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/objects/02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/objects/03.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/objects/03.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/objects/04.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/objects/04.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/objects/05.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/objects/05.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/objects/06.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/objects/06.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/objects/07.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/objects/07.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/objects/08.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/objects/08.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/objects/09.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/objects/09.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/objects/10.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/objects/10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/objects/11.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/objects/11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/objects/12.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/objects/12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/objects/13.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/objects/13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/objects/14.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/objects/14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/objects/15.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/objects/15.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/objects/16.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/objects/16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/objects/17.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/objects/17.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/objects/18.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/objects/18.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/objects/19.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/objects/19.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/objects/20.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/objects/20.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/aura/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/aura/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/aura/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/aura/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/aura/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/aura/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/aura/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/aura/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/bamboo/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/bamboo/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/bamboo/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/bamboo/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/claw/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/claw/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/claw/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/claw/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/claw/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/claw/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/claw/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/claw/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/flame/fire.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/flame/fire.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/flame/frames/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/flame/frames/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/flame/frames/01.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/flame/frames/01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/flame/frames/02.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/flame/frames/02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/flame/frames/03.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/flame/frames/03.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/flame/frames/04.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/flame/frames/04.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/flame/frames/05.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/flame/frames/05.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/flame/frames/06.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/flame/frames/06.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/flame/frames/07.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/flame/frames/07.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/flame/frames/08.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/flame/frames/08.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/flame/frames/09.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/flame/frames/09.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/flame/frames/10.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/flame/frames/10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/flame/frames/11.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/flame/frames/11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/heal/frames/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/heal/frames/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/heal/frames/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/heal/frames/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/heal/frames/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/heal/frames/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/heal/frames/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/heal/frames/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/heal/frames/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/heal/frames/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/heal/heal.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/heal/heal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf1/leaf1_00000.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf1/leaf1_00000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf1/leaf1_00001.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf1/leaf1_00001.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf1/leaf1_00002.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf1/leaf1_00002.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf1/leaf1_00003.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf1/leaf1_00003.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf1/leaf1_00004.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf1/leaf1_00004.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf1/leaf1_00005.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf1/leaf1_00005.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf1/leaf1_00006.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf1/leaf1_00006.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf1/leaf1_00007.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf1/leaf1_00007.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf1/leaf1_00008.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf1/leaf1_00008.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf1/leaf1_00009.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf1/leaf1_00009.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf1/leaf1_00010.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf1/leaf1_00010.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf1/leaf1_00011.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf1/leaf1_00011.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf2/leaf1_00000.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf2/leaf1_00000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf2/leaf1_00001.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf2/leaf1_00001.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf2/leaf1_00002.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf2/leaf1_00002.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf2/leaf1_00003.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf2/leaf1_00003.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf2/leaf1_00004.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf2/leaf1_00004.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf2/leaf1_00005.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf2/leaf1_00005.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf2/leaf1_00006.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf2/leaf1_00006.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf2/leaf1_00007.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf2/leaf1_00007.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf2/leaf1_00008.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf2/leaf1_00008.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf2/leaf1_00009.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf2/leaf1_00009.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf2/leaf1_00010.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf2/leaf1_00010.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf2/leaf1_00011.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf2/leaf1_00011.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf2/leaf1_00012.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf2/leaf1_00012.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf3/leaf1_00000.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf3/leaf1_00000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf3/leaf1_00001.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf3/leaf1_00001.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf3/leaf1_00002.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf3/leaf1_00002.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf3/leaf1_00003.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf3/leaf1_00003.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf3/leaf1_00004.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf3/leaf1_00004.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf3/leaf1_00005.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf3/leaf1_00005.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf3/leaf1_00006.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf3/leaf1_00006.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf3/leaf1_00007.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf3/leaf1_00007.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf3/leaf1_00008.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf3/leaf1_00008.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf3/leaf1_00009.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf3/leaf1_00009.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf4/leaf1_00000.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf4/leaf1_00000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf4/leaf1_00001.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf4/leaf1_00001.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf4/leaf1_00002.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf4/leaf1_00002.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf4/leaf1_00003.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf4/leaf1_00003.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf4/leaf1_00004.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf4/leaf1_00004.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf4/leaf1_00005.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf4/leaf1_00005.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf4/leaf1_00006.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf4/leaf1_00006.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf4/leaf1_00007.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf4/leaf1_00007.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf4/leaf1_00008.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf4/leaf1_00008.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf4/leaf1_00009.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf4/leaf1_00009.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf4/leaf1_00010.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf4/leaf1_00010.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf5/leaf1_00000.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf5/leaf1_00000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf5/leaf1_00001.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf5/leaf1_00001.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf5/leaf1_00002.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf5/leaf1_00002.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf5/leaf1_00003.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf5/leaf1_00003.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf5/leaf1_00004.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf5/leaf1_00004.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf5/leaf1_00005.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf5/leaf1_00005.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf5/leaf1_00006.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf5/leaf1_00006.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf5/leaf1_00007.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf5/leaf1_00007.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf5/leaf1_00008.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf5/leaf1_00008.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf5/leaf1_00009.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf5/leaf1_00009.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf6/leaf1_00000.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf6/leaf1_00000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf6/leaf1_00001.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf6/leaf1_00001.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf6/leaf1_00002.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf6/leaf1_00002.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf6/leaf1_00003.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf6/leaf1_00003.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf6/leaf1_00004.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf6/leaf1_00004.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf6/leaf1_00005.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf6/leaf1_00005.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf6/leaf1_00006.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf6/leaf1_00006.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf6/leaf1_00007.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf6/leaf1_00007.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf6/leaf1_00008.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf6/leaf1_00008.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf6/leaf1_00009.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf6/leaf1_00009.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf6/leaf1_00010.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf6/leaf1_00010.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf6/leaf1_00011.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf6/leaf1_00011.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf_attack/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf_attack/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf_attack/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf_attack/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf_attack/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf_attack/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf_attack/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf_attack/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf_attack/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf_attack/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf_attack/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf_attack/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/leaf_attack/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/leaf_attack/6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/nova/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/nova/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/nova/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/nova/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/nova/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/nova/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/nova/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/nova/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/nova/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/nova/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/nova/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/nova/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/raccoon/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/raccoon/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/raccoon/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/raccoon/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/raccoon/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/raccoon/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/raccoon/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/raccoon/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/raccoon/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/raccoon/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/raccoon/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/raccoon/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/slash/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/slash/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/slash/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/slash/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/slash/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/slash/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/slash/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/slash/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/smoke/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/smoke/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/smoke/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/smoke/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/smoke/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/smoke/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/smoke/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/smoke/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/smoke/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/smoke/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/smoke/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/smoke/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/smoke2/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/smoke2/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/smoke2/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/smoke2/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/smoke2/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/smoke2/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/smoke2/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/smoke2/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/smoke2/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/smoke2/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/smoke2/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/smoke2/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/smoke_orange/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/smoke_orange/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/smoke_orange/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/smoke_orange/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/smoke_orange/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/smoke_orange/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/smoke_orange/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/smoke_orange/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/smoke_orange/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/smoke_orange/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/smoke_orange/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/smoke_orange/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/sparkle/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/sparkle/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/sparkle/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/sparkle/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/sparkle/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/sparkle/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/sparkle/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/sparkle/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/sparkle/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/sparkle/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/thunder/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/thunder/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/thunder/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/thunder/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/thunder/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/thunder/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/thunder/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/thunder/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/thunder/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/thunder/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/thunder/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/thunder/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/thunder/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/thunder/6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/particles/thunder/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/particles/thunder/7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/player/down/down_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/player/down/down_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/player/down/down_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/player/down/down_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/player/down/down_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/player/down/down_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/player/down/down_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/player/down/down_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/player/down_attack/attack_down.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/player/down_attack/attack_down.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/player/down_idle/idle_down.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/player/down_idle/idle_down.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/player/left/left_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/player/left/left_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/player/left/left_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/player/left/left_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/player/left/left_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/player/left/left_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/player/left/left_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/player/left/left_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/player/left_attack/attack_left.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/player/left_attack/attack_left.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/player/left_idle/idle_left.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/player/left_idle/idle_left.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/player/right/right_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/player/right/right_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/player/right/right_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/player/right/right_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/player/right/right_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/player/right/right_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/player/right/right_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/player/right/right_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/player/right_attack/attack_right.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/player/right_attack/attack_right.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/player/right_idle/idle_right.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/player/right_idle/idle_right.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/player/up/up_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/player/up/up_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/player/up/up_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/player/up/up_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/player/up/up_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/player/up/up_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/player/up/up_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/player/up/up_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/player/up_attack/attack_up.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/player/up_attack/attack_up.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/player/up_idle/idle_up.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/player/up_idle/idle_up.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/test/player.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/test/player.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/test/rock.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/test/rock.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/tilemap/Floor.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/tilemap/Floor.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/tilemap/details.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/tilemap/details.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/tilemap/ground.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/tilemap/ground.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/weapons/axe/down.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/weapons/axe/down.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/weapons/axe/full.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/weapons/axe/full.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/weapons/axe/left.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/weapons/axe/left.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/weapons/axe/right.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/weapons/axe/right.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/weapons/axe/up.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/weapons/axe/up.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/weapons/lance/down.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/weapons/lance/down.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/weapons/lance/full.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/weapons/lance/full.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/weapons/lance/left.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/weapons/lance/left.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/weapons/lance/right.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/weapons/lance/right.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/weapons/lance/up.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/weapons/lance/up.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/weapons/rapier/down.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/weapons/rapier/down.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/weapons/rapier/full.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/weapons/rapier/full.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/weapons/rapier/left.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/weapons/rapier/left.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/weapons/rapier/right.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/weapons/rapier/right.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/weapons/rapier/up.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/weapons/rapier/up.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/weapons/sai/down.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/weapons/sai/down.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/weapons/sai/full.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/weapons/sai/full.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/weapons/sai/left.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/weapons/sai/left.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/weapons/sai/right.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/weapons/sai/right.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/weapons/sai/up.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/weapons/sai/up.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/weapons/sword/down.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/weapons/sword/down.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/weapons/sword/full.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/weapons/sword/full.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/weapons/sword/left.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/weapons/sword/left.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/weapons/sword/right.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/weapons/sword/right.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/graphics/weapons/sword/up.png" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/graphics/weapons/sword/up.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/map/map_Details.csv" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/map/map_Details.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/map/map_Entities.csv" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/map/map_Entities.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/map/map_Floor.csv" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/map/map_Floor.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/map/map_FloorBlocks.csv" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/map/map_FloorBlocks.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/map/map_Grass.csv" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/map/map_Grass.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 - level graphics/map/map_Objects.csv" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/map/map_Objects.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/level.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/player.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tile.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +339,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -26,6 +351,7 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="28kUqO5Ag7uMYJME7EgPqOVa7KO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,11 +371,13 @@
       <recent name="C:\Users\User\PycharmProjects\Amit's Zelda" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\Amit's Zelda\5 -level graphics" />
+      <recent name="C:\Users\User\PycharmProjects\Amit's Zelda" />
       <recent name="C:\Users\User\PycharmProjects\Amit's Zelda\5 - level graphics" />
       <recent name="C:\Users\User\PycharmProjects\Amit's Zelda\data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
+  <component name="RunManager" selected="Python.main (3)">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,19 +399,40 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\User\PycharmProjects\My_game\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/amit_code" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amit_code/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\User\PycharmProjects\hello just hello\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code &amp; data/amit_code" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code &amp; data/amit_code/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,10 +485,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (3)" />
         <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.support (1)" />
         <item itemvalue="Python.support" />
-        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
