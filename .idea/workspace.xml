@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e26f0f79-396b-4703-b317-731922fa37da" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code &amp; data/amit_code/Upgrade_screen.py" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/amit_code/Upgrade_screen.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code &amp; data/amit_code/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/code &amp; data/amit_code/settings.py" afterDir="false" />
+    <list default="true" id="e26f0f79-396b-4703-b317-731922fa37da" name="Default Changelist" comment="new file added for inventory&#10;next time need to move the inventory slot image to a new directory in graphics">
+      <change afterPath="$PROJECT_DIR$/code &amp; data/amit_code/invetory_system.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,6 +183,17 @@
       <option name="presentableId" value="Default" />
       <updated>1651760267237</updated>
     </task>
+    <task id="LOCAL‎00001" summary="new file added for inventory&#10;next time need to move the inventory slot image to a new directory in graphics">
+      <created>1664989603115</created>
+      <option name="number" value="LOCAL‎00001" />
+      <option name="presentableId" value="LOCAL‎00001" />
+      <updated>1664989603115</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new file added for inventory&#10;next time need to move the inventory slot image to a new directory in graphics" />
+    <option name="LAST_COMMIT_MESSAGE" value="new file added for inventory&#10;next time need to move the inventory slot image to a new directory in graphics" />
   </component>
 </project>
