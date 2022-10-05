@@ -1,3 +1,5 @@
+import pygame
+pygame.init()
 WINDOW_WIDTH = 1280
 WINDOW_HEIGHT = 720
 FPS = 60
@@ -9,6 +11,7 @@ HEALTH_BAR_WIDTH = 200
 ENERGY_BAR_WIDTH = 140
 ITEM_BOX_SIZE = 80
 UI_FONT = '../graphics/font/joystix.ttf'
+UPGRADE_FONT = '../graphics/font/Gameplay.ttf'
 UI_FONT_SIZE = 18
 
 # general colors
@@ -23,6 +26,7 @@ ENERGY_COLOR = 'blue'
 UI_BORDER_COLOR_ACTIVE = 'gold'
 
 # upgrade menu
+backgournd_color = (23,0,6)
 TEXT_COLOR_SELECTED = '#111111'
 BAR_COLOR = '#EEEEEE'
 BAR_COLOR_SELECTED = '#111111'
